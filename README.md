@@ -9,3 +9,6 @@
 - HTML CSS Support
 - IntelliSense for CSS class names in HTML
 - Material Icon Theme
+- Otra
+- y otra
+- y otras más 
